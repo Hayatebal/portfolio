@@ -2,7 +2,7 @@
 body {
     margin: 0;
     font-family: "Times New Roman";
-    background-color: white;
+    background-color: black;
 }
 
 /* Container styling similar to login/register */
@@ -40,7 +40,7 @@ section {
 
 /* Navbar links */
 .navbar .nav-link {
-    color: aquamarine !important;
+    color: black !important;
 }
 
 /* Images */
